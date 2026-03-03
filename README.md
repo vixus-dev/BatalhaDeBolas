@@ -31,13 +31,13 @@ O time que eliminar todos os adversários vence.
 | Ícone | Nome              | Cor principal     | Estilo de jogo principal                          | Habilidade Especial (resumo)                              |
 |:-----:|:------------------|:------------------|---------------------------------------------------|-------------------------------------------------------------|
 | 👊    | Desarmado         | Cinza             | Evolui com colisões                               | +dano e +velocidade permanente por colisão                 |
-| 🗡    | Espada            | Laranja           | Ataque orbital                                    | Espada causa dano extra sem contato físico (+dano por hit) |
+| 🗡     | Espada            | Laranja           | Ataque orbital                                    | Espada causa dano extra sem contato físico (+dano por hit) |
 | 🌱    | Crescedor         | Verde claro       | Tanque que cresce                                 | +raio e +massa por colisão / parede                        |
 | ⚡    | Acelerado         | Vermelho forte    | Velocidade insana                                 | +velocidade por colisão / dano extra proporcional à vel     |
 | ⚡    | Mercúrio          | Azul celeste      | Velocidade extrema                                | +5 de velocidade por colisão / dano extra muito alto        |
 | 🔪    | Adaga             | Dourado           | Giro frenético                                    | Rotação cada vez mais rápida (+spin por acerto)             |
 | ☠     | Centy             | Branco acinzentado| Dano percentual                                   | Causa % do HP **máximo** do alvo (+% por acerto)            |
-| 🛡    | Tanque            | Azul aço          | Tanque pesado                                     | 35% redução de dano + massa 3×                             |
+| 🛡     | Tanque            | Azul aço          | Tanque pesado                                     | 35% redução de dano + massa 3×                             |
 | 🦇    | Vampiro           | Roxo médio        | Sustain + scaling                                 | Rouba 50% do dano causado como vida (+dano por cura)       |
 | 💣    | Bomba             | Laranja escuro    | Explosões periódicas                              | Detona a cada ~3s (dano e raio crescem)                    |
 | 🌵    | Espinho           | Verde escuro      | Contra-ataque passivo                             | Reflete parte do dano recebido (+% por hit sofrido)         |
