@@ -4,8 +4,8 @@
 Simulação 2D de combate automático entre times de bolas com diferentes classes, mecânicas únicas e física divertida.
 
 ```
-Versão atual: **1.3**  
-Tecnologia: **Java + JavaFX**
+Versão atual: 1.3
+Tecnologia: Java + JavaFX
 https://github.com/vixus-dev/BatalhaDeBolas 
 ```
 
@@ -13,13 +13,13 @@ https://github.com/vixus-dev/BatalhaDeBolas
 
 ## 🎮 Como Jogar
 ```
-1. Clique em **"PREPARAR BATALHA"**
+1. Clique em "PREPARAR BATALHA"
 2. Na janela de configuração:
-   - Escolha o **tipo de bola** (clique nos cards)
-   - Defina o **HP inicial**
-   - Escolha o **modo** (Normal / Super 5× / Hiper 10×)
+   - Escolha o tipo de bola (clique nos cards)
+   - Defina o HP inicial
+   - Escolha o modo (Normal / Super 5× / Hiper 10×)
    - Adicione bolas nos times azul e vermelho
-3. Clique em **"INICIAR BATALHA"**
+3. Clique em "INICIAR BATALHA"
 4. Assista a batalha! 🏟️💥
 ```
 O time que eliminar todos os adversários vence.
@@ -48,7 +48,7 @@ O time que eliminar todos os adversários vence.
 ```
 - Sistema de física com sub-steps
 - 11 classes de bolas com mecânicas únicas
-- Modos de potência: **Normal**, **Super (5× HP)**, **Hiper (10× HP)**
+- Modos de potência: Normal, Super (5× HP), Hiper (10× HP)
 - Interface de configuração com preview animado + gráfico radar
 - Efeitos visuais: explosões, textos flutuantes de dano, trails, raios, brilhos
 - Barra de vida dos times + overlay com status detalhado
